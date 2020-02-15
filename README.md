@@ -52,14 +52,14 @@ git commit -m "<isi pesan terserah kalian>"
 ### -> Jadikan `remote` repository yang telah dibuat di akun github kalian
 
 ```
-git remote add <paste kan link url yang kalian copy tadi>
+git remote add origin <paste kan link url yang kalian copy tadi>
 ```
 
 
 #### Contoh
 
 ```
-git remote add https://github.com/rahulsubagio/test.git
+git remote add origin https://github.com/rahulsubagio/test.git
 ```
 
 
