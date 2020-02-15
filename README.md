@@ -1,4 +1,4 @@
-# Tutorial upload project dengan `Git` ke `Github`
+## Tutorial upload project dengan `Git` ke `Github`
 
 * Buat repository baru di akun github kalian
 * Klik `Clone or Download` yang berwarna hijau
