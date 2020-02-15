@@ -4,7 +4,7 @@
 
 ### -> Klik `Clone or Download` yang berwarna hijau
 
-### -> Copy URL yang tersedia disitu**
+### -> Copy URL yang tersedia disitu
 
 ### -> Arahkan pada direktori project yang akan di upload ke repository `Github`
 
