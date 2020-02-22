@@ -63,13 +63,6 @@ git remote add origin https://github.com/rahulsubagio/test.git
 ```
 
 
-### -> `pull` project nya
-
-```
-git pull origin master
-```
-
-
 ### -> `push` (upload) project nya
 
 ```
